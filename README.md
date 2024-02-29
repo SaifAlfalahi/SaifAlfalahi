@@ -53,8 +53,15 @@ My journey in computer science has led me to develop a passion for cybersecurity
 </div>
 -->
 ## Projects
-- Basic arithmetic calculator using Circuit Maker 
-- SOC Automation Project
+- Front-end development of a digitized log-book to be used officially used by College of health sciences students in their Radiology training.
+- Full stack development of a website that helps students and advisors plan the University course schedules using an interactive user-friendly interface.
+- Front-end development a professional Home page for a hospital website.
+- Created a relational database for a medium-sized Company "Global Support Solutions (GSS)".
+- Designed Lexer & Parser for a programming language on Racket.
+- Research on the use of Deep Nueral Networks in Data compression.
+- BiProduct! An E-Commerce store that sells products made from biodegradable and recycled materials.
+- Basic arithmetic calculator using Circuit Maker. 
+
 <!--
 **SaifAlfalahi/SaifAlfalahi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

@@ -58,7 +58,7 @@ My journey in computer science has led me to develop a passion for cybersecurity
 - Front-end development a professional Home page for a hospital website.
 - Created a relational database for a medium-sized Company "Global Support Solutions (GSS)".
 - Designed Lexer & Parser for a programming language on Racket.
-- Research on the use of Deep Nueral Networks in Data compression.
+- Research on the use of Deep Neural Networks in Data compression.
 - BiProduct! An E-Commerce store that sells products made from biodegradable and recycled materials.
 - Basic arithmetic calculator using Circuit Maker. 
 

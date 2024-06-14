@@ -5,7 +5,11 @@ I am a Computer Science student with a profound interest in technology and a ded
 
 ## Objective
 
-My journey in computer science has led me to develop a passion for cybersecurity, and I am now eager to transition into this field. I value the security and privacy of information and the people who rely on it. I aim to contribute to organizations by leveraging my strengths to identify and address security risks, fortifying their defenses and ensuring the resilience of their digital assets.
+With a profound passion for software engineering and a demonstrated track 
+record of successful projects.My work ranges from managing the development of an intuitive university E-Advising website as my senior project, to leading the creation of an electronic system designed to replace traditional paper- 
+logbooks in the College of Health Sciences at the University of Sharjah. These 
+projects not only prove my technical proficiency, particularly in software development, but also highlight my ability to lead and inspire a team towards creating software solutions that significantly improve user interactions.
+
 <!--
 ## Skills
 [Provide skills and associated project. Make sure to hyperlink the project - Remove this afterwards]]
